@@ -124,7 +124,7 @@ body{
     }
 }
 .hero{
-    background-image: url(/imag/Captura7.webp);
+    background-image: url(/proyectos/imag/Captura7.webp);
     background-repeat: no-repeat;
     background-size: cover;
     height: 89rem;
@@ -377,7 +377,7 @@ header h1 {
 }
 
 .formulario{
-    background-image: url(/imag/Captura6.webp);
+    background-image: url(/proyectos/imag/Captura6.webp);
     background-repeat: no-repeat;
     background-size: cover;
     margin: 0 auto;
